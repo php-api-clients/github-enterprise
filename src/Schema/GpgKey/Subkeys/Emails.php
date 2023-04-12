@@ -1,7 +1,7 @@
 <?php
 
 declare (strict_types=1);
-namespace ApiClients\Client\GitHubEnterprise\Schema\GpgKey;
+namespace ApiClients\Client\GitHubEnterprise\Schema\GpgKey\Subkeys;
 
 use ApiClients\Client\GitHubEnterprise\Error as ErrorSchemas;
 use ApiClients\Client\GitHubEnterprise\Hydrator;
