@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace ApiClients\Client\GitHubEnterprise\Schema;
 
-final readonly class ExemptionRequestSecretScanningClosure
+final readonly class DismissalRequestSecretScanning
 {
     public const SCHEMA_JSON         = '{
     "title": "Secret scanning alert dismissal request data",
